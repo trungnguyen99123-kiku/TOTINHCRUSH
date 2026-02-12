@@ -1,5 +1,5 @@
 // 1. Cấu hình tên file nhạc (Hãy chắc chắn file này có trong thư mục)
-const NHAC_CHILL = "nhac-chill.mp3.mp3"; 
+const NHAC_CHILL = "nhac-chillmp3.mp3"; 
 
 const btnNo = document.getElementById('btnNo');
 const btnYes = document.getElementById('btnYes');
